@@ -1,0 +1,36 @@
+.container{
+    height: 500px;
+    width: 100px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.my-details{
+    background-color:beige; 
+}
+
+.nik{
+    
+    border-radius: 50%;
+}
+.display-5 {
+    margin-top: 0;
+    padding: 0;
+    background-color: azure;
+}
+.new{
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: beige;
+}  
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.me{
+    list-style-type:  none;
+    background-color: blanchedalmond;
+
+}
